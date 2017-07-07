@@ -2,9 +2,11 @@
 
 ## TODO
 
-- [ ] static HTML site
+- [x] static HTML site
 - [ ] learn how to get google results for "rubmaps"
-- [ ] github pages hosting
+- [x] github pages hosting
 - [ ] cloudflare
-- [ ] gmail address
+- [x] gmail address
 - [ ] banner that people can load on their site
+- [ ] better content and formatting
+- [ ] www,!www work 
