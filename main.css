@@ -15,9 +15,8 @@ h2 {
   color: white; 
 }
 
-a {
-  color: white;
-}
+a { color: white; }
+a:visited { color: white; }
 
 #footer {
   text-align: center;
