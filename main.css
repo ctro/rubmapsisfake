@@ -5,10 +5,14 @@ html {
   font-size: 142%
 }
 
+h1 {
+  border-bottom: dotted 2px;
+  color: white;
+}
+
 h2 {
   margin-top: 7%;
-  border-bottom: dotted 2px;
-  color: #FEFEC3
+  color: white; 
 }
 
 a {

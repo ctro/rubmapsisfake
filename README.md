@@ -5,8 +5,8 @@
 - [x] static HTML site
 - [ ] learn how to get google results for "rubmaps"
 - [x] github pages hosting
-- [ ] cloudflare
+- [x] cloudflare
 - [x] gmail address
 - [ ] banner that people can load on their site
-- [ ] better content and formatting
-- [ ] www,!www work 
+- [x] better content and formatting
+- [x] www,!www work 
